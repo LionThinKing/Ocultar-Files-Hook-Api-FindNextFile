@@ -1,0 +1,1 @@
+En este caso oculta los archivos y carpetas que comiencen por la letra "_" para la api FindNextFile
